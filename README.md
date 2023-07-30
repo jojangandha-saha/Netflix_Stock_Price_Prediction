@@ -24,7 +24,8 @@ Stock price prediction is a challenging task that involves forecasting the futur
 
 ## Dataset
 
-For this project, we used a historical dataset of Netflix stock prices. The dataset contains various features like date, open price, high price, low price, close price, volume, etc. We split the dataset into training and testing sets to evaluate the model's performance accurately.
+For this project, we used a historical dataset of Netflix stock prices from Kaggle. The dataset contains various features like date, open price, high price, low price, close price, volume, etc. We split the dataset into training and testing sets to evaluate the model's performance accurately. The dataset can be found in this file named NFLX_stock.csv
+
 
 ## Requirements
 
